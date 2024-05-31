@@ -1,0 +1,5 @@
+pip install flake8
+flake8 my_project
+$ flake8 my_project
+myfile.py:1: 'sys' imported but unused
+myfile.py:4:1: E302 expected 2 blank lines, found 1
